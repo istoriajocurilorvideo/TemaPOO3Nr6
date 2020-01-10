@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1578596353 source:c:\users\alex\desktop\temapoo6\src\gestionarefarmacii.cpp
+	"GestionareFarmacii.h"
+
+1578638183 c:\users\alex\desktop\temapoo6\include\gestionarefarmacii.h
+	"Universal.h"
+	"FarmacieOnline.h"
+
+1578590443 source:c:\users\alex\desktop\temapoo6\main.cpp
+	"Farmacie.h"
+	"FarmacieOnline.h"
+	"GestionareFarmacii.h"
+
+1578572070 c:\users\alex\desktop\temapoo6\include\farmacie.h
+	"Universal.h"
+
+1578576065 c:\users\alex\desktop\temapoo6\include\universal.h
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1578572070 source:c:\users\alex\desktop\temapoo6\src\farmacie.cpp
+	"Farmacie.h"
+
+1578572402 source:c:\users\alex\desktop\temapoo6\src\farmacieonline.cpp
+	"FarmacieOnline.h"
+
+1578572402 c:\users\alex\desktop\temapoo6\include\farmacieonline.h
+	"Universal.h"
+	"Farmacie.h"
+
